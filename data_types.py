@@ -21,3 +21,10 @@ print(sqrt(6))
 #how to take input from a user
 user_name =  input("Please enter your name: ")
 print("hi " + user_name)
+
+
+# Use int, float, complex for numbers.
+# Use str for text.
+# Use list, tuple, set, and dict for collections.
+# Use bool for True/False values.
+# Use bytes, bytearray, memoryview for binary data.
